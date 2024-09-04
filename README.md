@@ -1,1 +1,1 @@
-# Wedding-RSVP
+The Wedding RSVP Form App is a full-stack application designed to simplify managing wedding guest responses. Built with a robust backend and an intuitive front-end interface, it allows couples to efficiently collect RSVPs, track guest details, and manage dietary preferences or special requests. 
